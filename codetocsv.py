@@ -88,5 +88,5 @@ def main(file_path):
     print("Output saved to traffic_signal_output.csv")
 
 if __name__ == "__main__":
-    csv_file_path = r"C:\Users\bhavy\OneDrive\Desktop\hackathon\new new\MockTrafficDataForMCNFP.csv"
+    csv_file_path = "MockTrafficDataForMCNFP.csv"
     main(csv_file_path)
